@@ -10,7 +10,9 @@ WEBアプリ内で、CSVのリストデータを登録、出力が出来、
 本アプリを通して営業部全体のアプローチ管理が可能です。
  
 ***デモ***
- 
+[デモ1] <img src ="public/pic/screen1.png">
+[デモ2] <img src ="public/pic/screen2.png">
+[デモ3] <img src ="public/pic/screen3.png">
 
 ## 機能
  
